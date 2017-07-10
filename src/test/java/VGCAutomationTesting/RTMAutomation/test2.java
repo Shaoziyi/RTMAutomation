@@ -1,6 +1,6 @@
 package VGCAutomationTesting.RTMAutomation;
 
-public class test1
+public class test2
 {
 
 }
