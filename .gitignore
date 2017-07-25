@@ -1,5 +1,6 @@
 /target/
-/test-output/
+# 忽略指定文件夹
+test-output/
 *.class
 # Package Files #
 *.jar
